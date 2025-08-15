@@ -4,7 +4,7 @@ Here’s the translation of your text to English:
 
 # Portfolio
 Hello everyone!  
-Let me introduce myself, I’m Zokirov Jaloliddin (Jony). On this occasion, I’d like to share the portfolio website project that I’ve developed.  
+Let me introduce myself, I’m Esonaliyev Alyorbek . On this occasion, I’d like to share the portfolio website project that I’ve developed.  
 
 **Tech Stack used:**  
 - ReactJS  
